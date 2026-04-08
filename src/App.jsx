@@ -8,6 +8,7 @@ const VIDEOS = [
 
 const FEATURES = [
   'Edição profissional completa',
+  'Motion design nos vídeos',
   'Até 2 minutos de vídeo final',
   '2 rodadas de revisão',
   'Cortes dinâmicos e transições',
